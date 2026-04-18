@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class P16_04_27 {
+public class P16_04_26 {
     
     private List<Integer> solve(int[] nums, int[] queries) {
         int n = nums.length;
