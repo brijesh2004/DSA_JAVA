@@ -1,4 +1,4 @@
-public class Reverse_Linked_List_Two {
+public class Remove_Nth_Node_From_The_List {
    private int listLen(ListNode head){
         int len=0;
         while(head!=null){
